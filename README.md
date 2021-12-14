@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @FernandoFranchiGonsales
 - 👀 Work: Software Development Jr (Java / Kotlin) | OpenBank
-- 📫 Contact: fernando.gonsales@picpay.com
+- 📫 E-mail: fernando.gonsales@picpay.com
+- 💌 Slack: fernando.gonsales
